@@ -5,7 +5,9 @@ What comes next? ♫ You've been freed... ♫
 
 - [ ] Advent of Code 2015 | Python
 
-- [ ] Advent of Code 2016 | Rust
+- [ ] 42 Git Project
+
+- [ ] Sastantua
 
 - [ ] Update SDL_Tools | Make SDL_Interface (implement buttons from tile_game) / Document things
 
@@ -27,6 +29,8 @@ What comes next? ♫ You've been freed... ♫
 - [ ] 2015- Day15 | More math, less for loops
 
 - [ ] 2015- Day19 | General solution?
+
+- [ ] 2016 | Rust
 
 ---
 
