@@ -3,11 +3,9 @@ What comes next? ♫ You've been freed... ♫
 
 ## Fork() is great, but don't abuse it
 
-- [ ] Advent of Code 2015 | Python
+- [x] 42 Git Project [In Progress]
 
-- [ ] 42 Git Project
-
-- [ ] Sastantua
+- Advent of Code 2016 -C [In Progress]
 
 - [ ] Update SDL_Tools | Make SDL_Interface (implement buttons from tile_game) / Document things
 
@@ -30,14 +28,14 @@ What comes next? ♫ You've been freed... ♫
 
 - [ ] 2015- Day19 | General solution?
 
-- [ ] 2016 | Rust
+- [ ] Better AOC 2015 / Solve in C / Gotta go fast
 
 ---
 
 **Math things**
 
 - [ ] sqrt(2) is irrational
-- [ ] Not every number of the form N = (p1 * p1 * ... pn) + 1 is prime
+- [x] Not every number of the form N = (p1 * p1 * ... pn) + 1 is prime
 - [ ] AU(B N C) = (AUB) N (AUC) 
 
  [0]:https://www.gatevidyalay.com/cyk-cyk-algorithm/
