@@ -5,7 +5,7 @@ What comes next? ♫ You've been freed... ♫
 
 - [x] 42 Git Project [In Progress]
 
-- Advent of Code 2016 -C [In Progress]
+- [ ] Advent of Code 2016 -C [In Progress]
 
 - [ ] Update SDL_Tools | Make SDL_Interface (implement buttons from tile_game) / Document things
 
@@ -15,9 +15,13 @@ What comes next? ♫ You've been freed... ♫
 
 ## Memory, memory, what is it that I missed?
 
+- [ ] Look through preprcessor lib **[ORDER][2]**
+
 - [ ] Have a look at **[CYK Algorithm][0]**
 
 - [ ] Look through **[GIMP][1]** to better structure SDL_Tools
+
+- [ ] More preprocessor and macro stuff / Function overloading
  
  -----
  **Advent of code things**
@@ -34,9 +38,8 @@ What comes next? ♫ You've been freed... ♫
 
 **Math things**
 
-- [ ] sqrt(2) is irrational
-- [x] Not every number of the form N = (p1 * p1 * ... pn) + 1 is prime
 - [ ] AU(B N C) = (AUB) N (AUC) 
 
  [0]:https://www.gatevidyalay.com/cyk-cyk-algorithm/
  [1]:https://github.com/GNOME/gimp
+ [2]:http://rosettacode.org/wiki/Category:Order
