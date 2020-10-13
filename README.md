@@ -3,8 +3,6 @@ What comes next? ♫ You've been freed... ♫
 
 ## Fork() is great, but don't abuse it
 
-- [x] 42 Git Project [In Progress]
-
 - [ ] Advent of Code 2016 -C [In Progress]
 
 - [ ] Update SDL_Tools | Make SDL_Interface (implement buttons from tile_game) / Document things
