@@ -3,7 +3,7 @@ What comes next? ♫ You've been freed... ♫
 
 ## Fork() is great, but don't abuse it
 
-- [ ] Advent of Code 2016 -C [In Progress]
+- [ ] Advent of Code 2017 -C [In Progress]
 
 - [ ] Update SDL_Tools | Make SDL_Interface (implement buttons from tile_game) / Document things
 
@@ -19,16 +19,10 @@ What comes next? ♫ You've been freed... ♫
 
 - [ ] Look through **[GIMP][1]** to better structure SDL_Tools
 
-- [ ] More preprocessor and macro stuff / Function overloading
+- [x] More preprocessor and macro stuff / Function overloading
  
  -----
  **Advent of code things**
-
-- [ ] 2015- Day17 | Solve with bitmask
-
-- [ ] 2015- Day15 | More math, less for loops
-
-- [ ] 2015- Day19 | General solution?
 
 - [ ] Better AOC 2015 / Solve in C / Gotta go fast
 
@@ -36,7 +30,7 @@ What comes next? ♫ You've been freed... ♫
 
 **Math things**
 
-- [ ] AU(B N C) = (AUB) N (AUC) 
+- [x] AU(B N C) = (AUB) N (AUC) 
 
  [0]:https://www.gatevidyalay.com/cyk-cyk-algorithm/
  [1]:https://github.com/GNOME/gimp
