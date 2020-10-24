@@ -5,13 +5,15 @@ What comes next? ♫ You've been freed... ♫
 
 - [ ] Advent of Code 2017 -C [In Progress]
 
-- [ ] Update SDL_Tools | Make SDL_Interface (implement buttons from tile_game) / Document things
+- [ ] **Add arror checking and safety checks to all the libraries (C, Sdl tools, math tools)** | Mostly malloc/calloc checks / int to size_t / type safe macros / closing files etc..
 
-- [ ] Update Quantum Vault | Command options / better Readme
+- [ ] **Update SDL_Tools** | Make SDL_Interface (implement buttons from tile_game) / Documentation
 
-- [ ] Update Math_Tools with Vec3
+- [ ] **Update Quantum Vault** | Command options / better Readme
 
-## Memory, memory, what is it that I missed?
+- [ ] **Update Math_Tools** | Vec3 / Circles 
+
+## Personal SSD
 
 - [ ] Look through preprcessor lib **[ORDER][2]**
 
@@ -19,18 +21,7 @@ What comes next? ♫ You've been freed... ♫
 
 - [ ] Look through **[GIMP][1]** to better structure SDL_Tools
 
-- [x] More preprocessor and macro stuff / Function overloading
- 
- -----
- **Advent of code things**
-
-- [ ] Better AOC 2015 / Solve in C / Gotta go fast
-
 ---
-
-**Math things**
-
-- [x] AU(B N C) = (AUB) N (AUC) 
 
  [0]:https://www.gatevidyalay.com/cyk-cyk-algorithm/
  [1]:https://github.com/GNOME/gimp
