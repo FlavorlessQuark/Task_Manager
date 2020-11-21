@@ -3,8 +3,6 @@ What comes next? ♫ You've been freed... ♫
 
 ## Fork() is great, but don't abuse it
 
-- [ ] **Hackerank - Python** | 106 / 115
-
 - [ ] **Hackerank - C** | 3 remaining
  
 - [ ] **Autodef** | Tool to add include guards to the specified files...
