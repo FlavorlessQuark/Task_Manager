@@ -4,8 +4,6 @@ What comes next? ♫ You've been freed... ♫
 ## Fork() is great, but don't abuse it
 
 - [ ] **Hackerank - C** | 3 remaining
- 
-- [ ] **Autodef** | Tool to add include guards to the specified files...
 
 - [ ] **Update Quantum Vault** | Command options / better Readme
 
@@ -24,7 +22,7 @@ What comes next? ♫ You've been freed... ♫
 
 ## Math stuff
 
-[ ] **COmplex numbers** | Multiplication nd division
+[ ] **COmplex numbers** | Division
 
 [ ] **Vectors** | Why need |B| in dot product of A * B *(A * B = |A||B| cos angle)*
 
