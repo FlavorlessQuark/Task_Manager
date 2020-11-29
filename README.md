@@ -3,7 +3,9 @@ What comes next? ♫ You've been freed... ♫
 
 ## Fork() is great, but don't abuse it
 
-- [ ] **Hackerank - C** | 3 remaining
+- [ ] **AoC**| C , aoc.h review and aoc 2017/2020
+
+- [ ] **Daily quest** | Leetcoode / Hackerrank
 
 - [ ] **Update Quantum Vault** | Command options / better Readme
 
@@ -21,8 +23,6 @@ What comes next? ♫ You've been freed... ♫
 ---
 
 ## Math stuff
-
-[ ] **COmplex numbers** | Division
 
 [ ] **Vectors** | Why need |B| in dot product of A * B *(A * B = |A||B| cos angle)*
 
