@@ -1,24 +1,30 @@
 # Task_Manager
 What comes next? ♫ You've been freed... ♫
 
+## Daily questst
+
+- [ ] **Daily quest** | Leetcoode ( Easy, Medium, Hard )
+
+- [ ] **Daily quest** | Project Euler
+
+- [ ] **Daily quest** | CodeWars (8 to current kyu - 1)
+
+
+
 ## Fork() is great, but don't abuse it
 
-- [ ] **AoC**| C , aoc.h review and aoc 2017/2020
+- [ ] **The art of Computer Programming** | Vol1
 
-- [ ] **Daily quest** | Leetcoode / Hackerrank
+- [ ] **AoC** | Finish AoC 2017 in C / Do AoC 2018 in Python
 
-- [ ] **Update Quantum Vault** | Command options / better Readme
+- [ ] **Update Quantum Vault** | Command options / better Readme <- Not as important
+
+- [ ] **C** | Update C lib from Aoc.h <- Not as important
 
 
 ## Personal SSD
 
-- [ ] Have a look at **[CYK Algorithm][0]**
-
 - [ ] Look through **[GIMP][1]** to better structure SDL_Tools
-
-- [ ] Python documentation
-
-- [ ] C documentation
 
 ---
 
